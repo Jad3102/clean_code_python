@@ -1,2 +1,2 @@
 # clean_code_python
-Realização de clean code em um dos meu primeiros exercícios da facul.
+Realização de Clean Code em um dos primeiros exercícios realizados na faculdade.
